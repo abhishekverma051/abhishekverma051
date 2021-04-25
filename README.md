@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abhiskvrm
-- 👀 I’m interested in coding and in makng projects.
+- 👋 Hi, I’m Abhishek verma
+- 👀 I’m interested in coding and in making projects.
 - 🌱 I’m currently learning c++, and i have a knowledge od C language also.
 - 💞️ I’m looking to collaborate on  projects and coding.
 
