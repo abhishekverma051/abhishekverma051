@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Abhishek verma
 - 👀 I’m interested in coding and in making projects.
-- 🌱 I’m currently learning c++, and I have knowledge of other programming languages also.
+- 🌱 I’m a React Native developer and I have knowledge of other programming languages also.
 - 💞️ I’m looking to collaborate on  projects and coding.
 
 - 📫 How to reach me ...
