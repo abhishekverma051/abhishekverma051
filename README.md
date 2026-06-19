@@ -31,7 +31,7 @@
 ## 🌐 Portfolio & Profiles
 
 * 💼 LinkedIn: https://www.linkedin.com/in/abhishek-verma-632ba71ba/
-* 🎨 Framer Portfolio: **https://abhishekdev.framer.website/**
+* 🎨 My Portfolio: **https://abhishekdev.framer.website/**
 * 💻 GitHub: **https://github.com/abhishekverma051**
 
 ## 📫 Connect With Me
