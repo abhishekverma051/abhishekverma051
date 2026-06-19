@@ -9,7 +9,7 @@
 
 🚀 **React Native Developer** passionate about building high-quality mobile applications and creating impactful digital experiences.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 📱 Specialized in **React Native** mobile app development.
 * 💡 Passionate about coding, problem-solving, and building innovative projects.
@@ -28,9 +28,19 @@
 * REST APIs
 * Git & GitHub
 
+## 🌐 Portfolio & Profiles
+
+* 🎨 Framer Portfolio: **[Add Your Framer Link Here]**
+* 💻 GitHub: **https://github.com/abhishekverma051**
+
 ## 📫 Connect With Me
 
-📧 Email: [abhiskvrm5@gmail.com](mailto:abhiskvrm5@gmail.com)**
+* 📧 Email: **[abhiskvrm5@gmail.com](mailto:abhiskvrm5@gmail.com)**
 
 ---
- Feel free to explore my repositories and connect with me for collaboration opportunities!
+
+### 🚀 Let's Build Something Amazing Together!
+
+I'm always excited to work on innovative mobile applications, open-source projects, and challenging development opportunities.
+
+⭐ Feel free to explore my repositories and reach out for collaborations!
