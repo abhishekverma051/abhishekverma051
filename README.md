@@ -30,7 +30,8 @@
 
 ## 🌐 Portfolio & Profiles
 
-* 🎨 Framer Portfolio: **[Add Your Framer Link Here]**
+* 💼 LinkedIn: https://www.linkedin.com/in/abhishek-verma-632ba71ba/
+* 🎨 Framer Portfolio: **https://abhishekdev.framer.website/**
 * 💻 GitHub: **https://github.com/abhishekverma051**
 
 ## 📫 Connect With Me
